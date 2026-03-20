@@ -1,1 +1,1 @@
-# e-mail-signiture
+# e-mail-signature
